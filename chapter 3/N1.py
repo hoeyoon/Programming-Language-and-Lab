@@ -1,0 +1,8 @@
+a = int(input("First Number : "))
+b = int(input("Second Number : "))
+print("Add : ",(a + b))
+print("Sub : ",(a - b))
+print("Mul : ",(a * b))
+print("Div : ",(a / b))
+print("Quo : ",(a // b))
+print("Rem : ",(a % b))
