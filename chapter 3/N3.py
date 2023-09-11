@@ -1,0 +1,5 @@
+f = int(input("Flight : "))
+n = int(input("Night : "))
+h = int(input("Hotel : "))
+a = int(input("Allowance : "))
+print("Cost : %d" % (f + n * h + (n + 1) * a))
