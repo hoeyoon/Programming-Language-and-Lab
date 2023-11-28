@@ -22,3 +22,21 @@ for i in n:
   if i in sum:
     count += 1
 print(count)
+
+#또는
+
+def goodnum(n, num, x):
+  for i in range(x):
+    for j in range(i + 1, x):
+      if num[i] + num[j] == n:
+        return 1
+
+  return 0
+
+n = list(map(int, input().split()))
+count = 0
+for i in range(len(n)):
+  if goodnum(n[i], n, len(n)):
+    count += 1
+
+print(count)
