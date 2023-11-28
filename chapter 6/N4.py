@@ -36,7 +36,7 @@ def goodnum(n, num, x):
 n = list(map(int, input().split()))
 count = 0
 for i in range(len(n)):
-  if goodnum(n[i], n, len(n)):
+  if goodnum(n[i], n, len(n)) == 1:
     count += 1
 
 print(count)
