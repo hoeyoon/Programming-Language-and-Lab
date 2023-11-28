@@ -22,3 +22,6 @@
 
 + chapter 9 문제 ✅
   + [<1>](https://github.com/hoeyoon/Programming-Language-and-Lab/blob/master/chapter%209/N1.py)[<2>](https://github.com/hoeyoon/Programming-Language-and-Lab/blob/master/chapter%209/N2.py)[<3>](https://github.com/hoeyoon/Programming-Language-and-Lab/blob/master/chapter%209/N3.py)[<4>](https://github.com/hoeyoon/Programming-Language-and-Lab/blob/master/chapter%209/N4.py)[<5>](https://github.com/hoeyoon/Programming-Language-and-Lab/blob/master/chapter%209/N5.py)
+
++ Practice 1 문제 ✅
+  + [<1>](https://github.com/hoeyoon/Programming-Language-and-Lab/blob/master/Practice%201/N1.py)[<2>](https://github.com/hoeyoon/Programming-Language-and-Lab/blob/master/Practice%201/N2.py)[<3>](https://github.com/hoeyoon/Programming-Language-and-Lab/blob/master/Practice%201/N3.py)[<4>](https://github.com/hoeyoon/Programming-Language-and-Lab/blob/master/Practice%201/N4.py)
